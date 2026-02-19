@@ -3,5 +3,5 @@ github add
 newfile newfile
 0210updated
 localup
-toserver 1
+
 changclient 2
